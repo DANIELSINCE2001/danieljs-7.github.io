@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/danieljs-7.github.io/static/css/main.02c9102e.css",
+    "main.css": "/danieljs-7.github.io/static/css/main.18e36ef1.css",
     "main.js": "/danieljs-7.github.io/static/js/main.cafcdfac.js",
     "static/media/boxicons.svg": "/danieljs-7.github.io/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/homebgoriginal.png": "/danieljs-7.github.io/static/media/homebgoriginal.75b275a8038489d5651e.png",
@@ -10,11 +10,11 @@
     "static/media/boxicons.woff2": "/danieljs-7.github.io/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "static/media/aboutoriginal.png": "/danieljs-7.github.io/static/media/aboutoriginal.6a12ffe97e0f26b723eb.png",
     "index.html": "/danieljs-7.github.io/index.html",
-    "main.02c9102e.css.map": "/danieljs-7.github.io/static/css/main.02c9102e.css.map",
+    "main.18e36ef1.css.map": "/danieljs-7.github.io/static/css/main.18e36ef1.css.map",
     "main.cafcdfac.js.map": "/danieljs-7.github.io/static/js/main.cafcdfac.js.map"
   },
   "entrypoints": [
-    "static/css/main.02c9102e.css",
+    "static/css/main.18e36ef1.css",
     "static/js/main.cafcdfac.js"
   ]
 }
