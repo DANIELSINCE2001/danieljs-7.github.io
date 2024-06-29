@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/danieljs-7.github.io/static/css/main.02c9102e.css",
+    "main.js": "/danieljs-7.github.io/static/js/main.21cf4cec.js",
+    "static/media/boxicons.svg": "/danieljs-7.github.io/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/homebgoriginal.png": "/danieljs-7.github.io/static/media/homebgoriginal.75b275a8038489d5651e.png",
+    "static/media/boxicons.eot": "/danieljs-7.github.io/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/danieljs-7.github.io/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/danieljs-7.github.io/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/danieljs-7.github.io/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/aboutoriginal.png": "/danieljs-7.github.io/static/media/aboutoriginal.6a12ffe97e0f26b723eb.png",
+    "index.html": "/danieljs-7.github.io/index.html",
+    "main.02c9102e.css.map": "/danieljs-7.github.io/static/css/main.02c9102e.css.map",
+    "main.21cf4cec.js.map": "/danieljs-7.github.io/static/js/main.21cf4cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c9102e.css",
+    "static/js/main.21cf4cec.js"
+  ]
+}
